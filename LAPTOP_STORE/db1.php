@@ -2,17 +2,7 @@
 
 
 function Createdb(){
-    //$servername = "localhost";
-    //$username = "root";
-    //$password = "fc8dhppU]hkW9D!n";
-    //$dbname = "lapstore";
-
-    //Get Heroku ClearDB connection information
-//$cleardb_url = "mysql://b5d72ee82fec0d:c172c887@us-cdbr-east-03.cleardb.com/heroku_d84c0e8f3ab6215?reconnect=true";
-//$servername = "us-cdbr-east-03.cleardb.com";
-//$username = "b5d72ee82fec0d";
-//$password = "c172c887";
-//$dbname = "heroku_d84c0e8f3ab6215";
+   
 
     $servername = "remotemysql.com";
     $username = "r3h2dtMIhE";
